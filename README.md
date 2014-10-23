@@ -5,7 +5,7 @@ developer.
 
 ---
 
-You can find my online at the following location:
+You can find me online at the following location:
 
 - [iliakolev.com](http://www.iliakolev.com/)
 - [github.com/iliakolev](https://github.com/iliakolev)
