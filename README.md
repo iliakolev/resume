@@ -26,9 +26,9 @@ the following (agile) processes and tools…
 
 ### tooling
 
-[Git](http://git-scm.com/) Version control system.
-[Vim](http://www.vim.org/about.php) Advanced text editor.
-[tmux](http://tmux.sourceforge.net/)Terminal multiplexer.
-[Sass](http://sass-lang.com/) CSS with superpowers.
-[Bower](http://bower.io/) A package manager for the web.
-[GruntJS](http://gruntjs.com/) JavaScript task runner.
+- [Git](http://git-scm.com/) Version control system.
+- [Vim](http://www.vim.org/about.php) Advanced text editor.
+- [tmux](http://tmux.sourceforge.net/)Terminal multiplexer.
+- [Sass](http://sass-lang.com/) CSS with superpowers.
+- [Bower](http://bower.io/) A package manager for the web.
+- [GruntJS](http://gruntjs.com/) JavaScript task runner.
