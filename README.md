@@ -32,3 +32,13 @@ the following (agile) processes and tools…
 - [Sass](http://sass-lang.com/) - CSS with superpowers.
 - [Bower](http://bower.io/) - A package manager for the web.
 - [GruntJS](http://gruntjs.com/) - JavaScript task runner.
+
+### front-end
+
+- Building interfaces and components that are:
+    - [Responsive](http://www.abookapart.com/products/responsive-web-design)
+    - Performant ([networking](http://shop.oreilly.com/product/0636920028048.do) and [behaviour](http://shop.oreilly.com/product/9780596802806.do))
+    - [Reusable](https://github.com/stubbornella/oocss/wiki)
+    - Simple
+        - i.e. code isn't complected
+        - e.g. have a baseline, no "kitchen sink" approaches
