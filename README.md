@@ -27,12 +27,12 @@ the following (agile) processes and tools…
 
 ### tooling
 
-- [Git](http://git-scm.com/) - Version control system.
-- [Vim](http://www.vim.org/about.php) - Advanced text editor.
-- [tmux](http://tmux.sourceforge.net/) - Terminal multiplexer.
-- [Sass](http://sass-lang.com/) - CSS with superpowers.
-- [Bower](http://bower.io/) - A package manager for the web.
-- [GruntJS](http://gruntjs.com/) - JavaScript task runner.
+- [Git](http://git-scm.com/)
+- [Vim](http://www.vim.org/about.php)
+- [tmux](http://tmux.sourceforge.net/)
+- [Sass](http://sass-lang.com/)
+- [Bower](http://bower.io/)
+- [GruntJS](http://gruntjs.com/)
 
 ### front-end
 
@@ -48,18 +48,14 @@ the following (agile) processes and tools…
 
 ### Primary
 
-- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) - HyperText Markup
-  Language.
-- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) - Cascading Style
-  Sheets.
+- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 - Client-side performance and optimisation
-- [Vim](http://www.vim.org/about.php) - Advanced text editor.
-- [tmux](http://tmux.sourceforge.net/) - Terminal multiplexer.
-- [Sublime Text](http://www.sublimetext.com/) - Sophisticated text editor for
-  code, markup and prose.
+- [Vim](http://www.vim.org/about.php)
+- [tmux](http://tmux.sourceforge.net/)
+- [Sublime Text](http://www.sublimetext.com/)
 
 ### Secondary
 
-- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) -
-  Lightweight, interpreted, object-oriented language.
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
