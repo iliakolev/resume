@@ -48,14 +48,18 @@ the following (agile) processes and tools…
 
 ### Primary
 
-- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
-- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) - HyperText Markup
+  Language.
+- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) - Cascading Style
+  Sheets.
 - Client-side performance and optimisation
-- [Vim](http://www.vim.org/about.php)
-- [tmux](http://tmux.sourceforge.net/)
-- [Sublime Text](http://www.sublimetext.com/)
+- [Vim](http://www.vim.org/about.php) - Advanced text editor.
+- [tmux](http://tmux.sourceforge.net/) - Terminal multiplexer.
+- [Sublime Text](http://www.sublimetext.com/) - Sophisticated text editor for
+  code, markup and prose.
 
 ### Secondary
 
-- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) -
+  Lightweight, interpreted, object-oriented language.
 
