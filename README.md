@@ -16,6 +16,7 @@ You can find me online at the following location:
 ## Table of Contents
 
 - [Jinx Factory processes](#jinx-factory-processes)
+- [Skills](#skills)
 
 ---
 
@@ -42,3 +43,19 @@ the following (agile) processes and tools…
     - Simple
         - i.e. code isn't complected
         - e.g. have a baseline, no "kitchen sink" approaches
+
+## Skills
+
+### Primary
+
+- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+- Client-side performance and optimisation
+- [Vim](http://www.vim.org/about.php)
+- [tmux](http://tmux.sourceforge.net/)
+- [Sublime Text](http://www.sublimetext.com/)
+
+### Secondary
+
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
