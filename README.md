@@ -29,6 +29,7 @@ the following (agile) processes and tools…
 
 - [Git](http://git-scm.com/)
 - [Vim](http://www.vim.org/about.php)
+- [Sublime Text](http://www.sublimetext.com/)
 - [tmux](http://tmux.sourceforge.net/)
 - [Sass](http://sass-lang.com/)
 - [Bower](http://bower.io/)
@@ -52,8 +53,8 @@ the following (agile) processes and tools…
 - [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 - Client-side performance and optimisation
 - [Vim](http://www.vim.org/about.php)
-- [tmux](http://tmux.sourceforge.net/)
 - [Sublime Text](http://www.sublimetext.com/)
+- [tmux](http://tmux.sourceforge.net/)
 
 ### Secondary
 
