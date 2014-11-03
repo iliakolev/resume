@@ -50,7 +50,7 @@ following (agile) processes and tools…
     - Simple
         - i.e. code isn't complected
         - e.g. have a baseline, no "kitchen sink" approaches
-- [Angular](https://angularjs.org/)
+- [AngularJS](https://angularjs.org/)
     - Hybrid mobile application built with [Ionic](http://ionicframework.com/) and [PhoneGap](http://phonegap.com/)
 
 ## Skills
