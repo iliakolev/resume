@@ -22,8 +22,8 @@ You can find me online at the following location:
 
 ## Jinx Factory processes
 
-I joined the Jinx Factory as a Front end developer. My job  generally involves
-the following (agile) processes and tools…
+I joined Jinx Factory as a Front end developer. My job generally involves the
+following (agile) processes and tools…
 
 ### tooling
 
@@ -39,11 +39,13 @@ the following (agile) processes and tools…
 
 - Building interfaces and components that are:
     - [Responsive](http://www.abookapart.com/products/responsive-web-design)
-    - Performant ([networking](http://shop.oreilly.com/product/0636920028048.do) and [behaviour](http://shop.oreilly.com/product/9780596802806.do))
     - [Reusable](https://github.com/stubbornella/oocss/wiki)
+    - Performant ([networking](http://shop.oreilly.com/product/0636920028048.do) and [behaviour](http://shop.oreilly.com/product/9780596802806.do))
     - Simple
         - i.e. code isn't complected
         - e.g. have a baseline, no "kitchen sink" approaches
+- [Angular](https://angularjs.org/)
+    - Hybrid mobile application built with [Ionic](http://ionicframework.com/) and [PhoneGap](http://phonegap.com/)
 
 ## Skills
 
