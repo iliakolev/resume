@@ -67,3 +67,9 @@ following (agile) processes and tools…
 
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
+### Interested in
+
+- [Docker](https://www.docker.com/)
+- [Vagrant](https://www.vagrantup.com/)
+- [Node](http://nodejs.org/)
+
