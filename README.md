@@ -17,6 +17,7 @@ You can find me online at the following location:
 
 - [Jinx Factory processes](#jinx-factory-processes)
 - [Skills](#skills)
+- [Summary](#summary)
 
 ---
 
@@ -73,3 +74,11 @@ following (agile) processes and tools…
 - [Vagrant](https://www.vagrantup.com/)
 - [Node](http://nodejs.org/)
 
+---
+
+## Summary
+
+I ideally want to get across two things about me:
+
+1. I'm very passionate about the web.
+2. I love getting the chance to learn and experience new things.
