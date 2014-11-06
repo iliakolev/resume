@@ -28,13 +28,13 @@ following (agile) processes and tools…
 
 ### tooling
 
-- [Git](http://git-scm.com/)
-- [Vim](http://www.vim.org/about.php)
-- [Sublime Text](http://www.sublimetext.com/)
-- [tmux](http://tmux.sourceforge.net/)
-- [Sass](http://sass-lang.com/)
 - [Bower](http://bower.io/)
+- [Git](http://git-scm.com/)
 - [GruntJS](http://gruntjs.com/)
+- [Sass](http://sass-lang.com/)
+- [Sublime Text](http://www.sublimetext.com/)
+- [Vim](http://www.vim.org/about.php)
+- [tmux](http://tmux.sourceforge.net/)
 
 ### back-end
 
@@ -43,25 +43,27 @@ following (agile) processes and tools…
 
 ### front-end
 
+- [AngularJS](https://angularjs.org/)
+    - Hybrid mobile application built with [Ionic](http://ionicframework.com/) and [PhoneGap](http://phonegap.com/)
+
 - Building interfaces and components that are:
-    - [Responsive](http://www.abookapart.com/products/responsive-web-design)
-    - [Reusable](https://github.com/stubbornella/oocss/wiki)
     - Performant ([networking](http://shop.oreilly.com/product/0636920028048.do) and [behaviour](http://shop.oreilly.com/product/9780596802806.do))
     - Simple
         - i.e. code isn't complected
         - e.g. have a baseline, no "kitchen sink" approaches
-- [AngularJS](https://angularjs.org/)
-    - Hybrid mobile application built with [Ionic](http://ionicframework.com/) and [PhoneGap](http://phonegap.com/)
+    - [Responsive](http://www.abookapart.com/products/responsive-web-design)
+    - [Reusable](https://github.com/stubbornella/oocss/wiki)
+
 
 ## Skills
 
 ### Primary
 
-- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
-- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 - Client-side performance and optimisation
-- [Vim](http://www.vim.org/about.php)
+- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 - [Sublime Text](http://www.sublimetext.com/)
+- [Vim](http://www.vim.org/about.php)
 - [tmux](http://tmux.sourceforge.net/)
 
 ### Secondary
@@ -71,8 +73,8 @@ following (agile) processes and tools…
 ### Interested in
 
 - [Docker](https://www.docker.com/)
-- [Vagrant](https://www.vagrantup.com/)
 - [Node](http://nodejs.org/)
+- [Vagrant](https://www.vagrantup.com/)
 
 ---
 
