@@ -1,7 +1,7 @@
 # Resume
 
-Hi there, my name is Ilia and I currently work at Jinx Factory as a front end
-developer.
+Hi there, my name is Ilia and I currently work at Jinx Factory as a Front-End
+Developer.
 
 ---
 
@@ -23,7 +23,7 @@ You can find me online at the following location:
 
 ## Jinx Factory processes
 
-I joined Jinx Factory as a Front end developer. My job generally involves the
+I joined Jinx Factory as a Front-End Developer. My job generally involves the
 following (agile) processes and tools…
 
 ### tooling
