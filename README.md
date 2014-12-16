@@ -49,7 +49,6 @@ following (agile) processes and tools…
 
 - [AngularJS](https://angularjs.org/)
     - Hybrid mobile application built with [Ionic](http://ionicframework.com/) and [PhoneGap](http://phonegap.com/)
-
 - Building interfaces and components that are:
     - Performant ([networking](http://shop.oreilly.com/product/0636920028048.do) and [behaviour](http://shop.oreilly.com/product/9780596802806.do))
     - Simple
