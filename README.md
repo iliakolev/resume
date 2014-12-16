@@ -31,10 +31,11 @@ following (agile) processes and tools…
 - [Bower](http://bower.io/)
 - [Git](http://git-scm.com/)
 - [GruntJS](http://gruntjs.com/)
-- [gulp](http://gulpjs.com/)
 - [Sass](http://sass-lang.com/)
 - [Sublime Text](http://www.sublimetext.com/)
+- [Trelo](https://trello.com/)
 - [Vim](http://www.vim.org/about.php)
+- [gulp](http://gulpjs.com/)
 - [tmux](http://tmux.sourceforge.net/)
 
 ### back-end
