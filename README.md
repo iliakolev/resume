@@ -43,6 +43,9 @@ following (agile) processes and tools…
 - [PHP](http://php.net/)
     - Web Application built with [FuelPHP](http://fuelphp.com/)
 
+- [Ruby](https://www.ruby-lang.org/en/)
+    - Static sites built with [Middleman](http://middlemanapp.com/)
+
 ### front-end
 
 - [AngularJS](https://angularjs.org/)
