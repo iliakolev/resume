@@ -66,8 +66,8 @@ following (agile) processes and tools…
 - [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 - [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 - [Sublime Text](http://www.sublimetext.com/)
-- [Vim](http://www.vim.org/about.php)
 - [tmux](http://tmux.sourceforge.net/)
+- [Vim](http://www.vim.org/about.php)
 
 ### Secondary
 
