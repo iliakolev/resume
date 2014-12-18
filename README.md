@@ -52,11 +52,12 @@ following (agile) processes and tools…
 - Building interfaces and components that are:
     - Performant ([networking](http://shop.oreilly.com/product/0636920028048.do) and [behaviour](http://shop.oreilly.com/product/9780596802806.do))
     - Simple
-        - i.e. code isn't complected
         - e.g. have a baseline, no "kitchen sink" approaches
+        - i.e. code isn't complected
     - [Responsive](http://www.abookapart.com/products/responsive-web-design)
     - [Reusable](https://github.com/stubbornella/oocss/wiki)
-
+        - I also use the [Sass](http://sass-lang.com/) CSS pre-processor
+        - Semantic and well structured HTML
 
 ## Skills
 
