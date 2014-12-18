@@ -35,7 +35,7 @@ following (agile) processes and tools…
 - [Sass](http://sass-lang.com/)
 - [Sublime Text](http://www.sublimetext.com/)
 - [tmux](http://tmux.sourceforge.net/)
-- [Trelo](https://trello.com/)
+- [Trello](https://trello.com/)
 - [Vim](http://www.vim.org/about.php)
 
 ### back-end
