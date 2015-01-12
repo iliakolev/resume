@@ -35,6 +35,7 @@ following (agile) processes and tools…
 - [Sass](http://sass-lang.com/)
 - [Sublime Text](http://www.sublimetext.com/)
 - [tmux](http://tmux.sourceforge.net/)
+- [Travis CI](https://travis-ci.org/)
 - [Trello](https://trello.com/)
 - [Vim](http://www.vim.org/about.php)
 
