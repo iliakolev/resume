@@ -1,6 +1,6 @@
 # Resume
 
-Hi there, my name is Ilia and I currently work at Jinx Factory as a Front-End
+Hi there, my name is Ilia and I currently work at Jinx Factory as a Front-end
 Developer.
 
 ---
@@ -15,13 +15,13 @@ You can find me online at the following location:
 
 ## Table of Contents
 
-- [Jinx Factory processes](#jinx-factory-processes)
+- [Jinx Factory](#jinx-factory)
 - [Skills](#skills)
 - [Summary](#summary)
 
 ---
 
-## Jinx Factory processes
+## Jinx Factory
 
 I joined Jinx Factory as a Front-End Developer. My job generally involves the
 following (agile) processes and tools…
@@ -32,19 +32,13 @@ following (agile) processes and tools…
 - [Git](http://git-scm.com/)
 - [GruntJS](http://gruntjs.com/)
 - [gulp](http://gulpjs.com/)
+- [npm](https://www.npmjs.com/)
 - [Sass](http://sass-lang.com/)
 - [Sublime Text](http://www.sublimetext.com/)
-- [tmux](http://tmux.sourceforge.net/)
 - [Travis CI](https://travis-ci.org/)
 - [Trello](https://trello.com/)
-- [Vim](http://www.vim.org/about.php)
-
-### back-end
-
-- [PHP](http://php.net/)
-    - Web Application built with [FuelPHP](http://fuelphp.com/)
-- [Ruby](https://www.ruby-lang.org/en/)
-    - Static sites built with [Middleman](http://middlemanapp.com/)
+- [Vagrant](https://www.vagrantup.com/)
+- [Vim](http://www.vim.org/about.php) and [tmux](http://tmux.github.io/)
 
 ### front-end
 
@@ -57,6 +51,7 @@ following (agile) processes and tools…
         - i.e. code isn't complected
     - [Responsive](http://www.abookapart.com/products/responsive-web-design)
     - [Reusable](https://github.com/stubbornella/oocss/wiki)
+        - Specifically using [BEM](https://en.bem.info/)
         - I also use the [Sass](http://sass-lang.com/) CSS pre-processor
         - Semantic and well structured HTML
 
@@ -79,7 +74,6 @@ following (agile) processes and tools…
 
 - [Docker](https://www.docker.com/)
 - [Node](http://nodejs.org/)
-- [Vagrant](https://www.vagrantup.com/)
 
 ---
 
