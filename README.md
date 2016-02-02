@@ -1,7 +1,6 @@
 # Resume
 
-Hi there, my name is Ilia and I currently work at Jinx Factory as a Front-end
-Developer.
+Hi, my name is Ilia and I'm currently a Front-end Developer at College Swimming.
 
 ---
 
