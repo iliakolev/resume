@@ -2,83 +2,63 @@
 
 Hi, my name is Ilia and I'm currently a Front-end Developer at College Swimming.
 
----
+## Connect
 
-You can find me online at the following location:
+You can find me online at the following locations:
 
 - [iliakolev.com](http://www.iliakolev.com/)
 - [github.com/iliakolev](https://github.com/iliakolev)
 - [twitter.com/iliakolev](http://www.twitter.com/iliakolev)
+- [linkedin.com/ilia-kolev](http://bg.linkedin.com/in/ilia-kolev-0b6bb575)
 
----
+## History
 
-## Table of Contents
+### College Swimming (Sept 2015 - Present)
 
-- [Jinx Factory](#jinx-factory)
-- [Skills](#skills)
-- [Summary](#summary)
+I joined [College Swimming](http://www.collegeswimming.com) as a Front-end Developer
+and begun building and designing front-end architecture for scalability and maintainability.
 
----
+### Jinx Factory (Mar 2013 - July 2015)
 
-## Jinx Factory
+Working as a Front-end Developer. I was responsible for the build of websites as 
+well as taking the company toward a responsive web design, design-in-the-browser 
+and provide in-house tools and frameworks.
 
-I joined Jinx Factory as a Front-End Developer. My job generally involves the
-following (agile) processes and tools…
+## Tools, Languages and Tech
 
-### tooling
+I don't profess mastery but I'm adept with most of the below, and I have an aptitude towards learning what I need to:
 
+- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+- [Sass](http://sass-lang.com/)
+- [Less](http://lesscss.org/)
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [Bower](http://bower.io/)
-- [Git](http://git-scm.com/)
 - [GruntJS](http://gruntjs.com/)
 - [gulp](http://gulpjs.com/)
 - [npm](https://www.npmjs.com/)
-- [Sass](http://sass-lang.com/)
+- [Git](http://git-scm.com/)
+- [Python](https://www.python.org/)
+- [Django](https://www.djangoproject.com/)
+- [Middleman](https://middlemanapp.com/)
+- [Docker](https://www.docker.com/)
+- [Vagrant](https://www.vagrantup.com/)
+- [Amazon S3](https://aws.amazon.com/s3/)
+- [PhoneGap](http://phonegap.com/)/[Apache Cordova](https://cordova.apache.org/)
 - [Sublime Text](http://www.sublimetext.com/)
+- [Vim](http://www.vim.org/about.php)
+- [tmux](http://tmux.github.io/)
 - [Travis CI](https://travis-ci.org/)
 - [Trello](https://trello.com/)
-- [Vagrant](https://www.vagrantup.com/)
-- [Vim](http://www.vim.org/about.php) and [tmux](http://tmux.github.io/)
 
-### front-end
+## Open-Source
 
-- [AngularJS](https://angularjs.org/)
-    - Hybrid mobile application built with [Ionic](http://ionicframework.com/) and [PhoneGap](http://phonegap.com/)
-- Building interfaces and components that are:
-    - Performant ([networking](http://shop.oreilly.com/product/0636920028048.do) and [behaviour](http://shop.oreilly.com/product/9780596802806.do))
-    - Simple
-        - e.g. have a baseline, no "kitchen sink" approaches
-        - i.e. code isn't complected
-    - [Responsive](http://www.abookapart.com/products/responsive-web-design)
-    - [Reusable](https://github.com/stubbornella/oocss/wiki)
-        - Specifically using [BEM](https://en.bem.info/)
-        - I also use the [Sass](http://sass-lang.com/) CSS pre-processor
-        - Semantic and well structured HTML
-
-## Skills
-
-### Primary
-
-- Client-side performance and optimisation
-- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
-- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
-- [Sublime Text](http://www.sublimetext.com/)
-- [tmux](http://tmux.sourceforge.net/)
-- [Vim](http://www.vim.org/about.php)
-
-### Secondary
-
-- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-
-### Interested in
-
-- [Docker](https://www.docker.com/)
-- [Node](http://nodejs.org/)
-
----
+- [Tree Framework](https://github.com/treeframework)
+- [Pando](https://github.com/iliakolev/pando)
 
 ## Summary
 
 I ideally want to get across two things about me:
 
-1. I'm very passionate about the web.
-2. I love getting the chance to learn and experience new things.
+1. I'm very passionate about the web
+2. I love getting the chance to learn and experience new things
