@@ -1,6 +1,50 @@
 # Resume
 
-Hi, my name is Ilia and I'm currently web developer at [Swimcloud](https://www.swimcloud.com/) 
+Hi, my name is Ilia and I'm currently full-stack developer at [Swimcloud](https://www.swimcloud.com/) 
+
+## Experience
+
+### Swimcloud (Sept 2015 - Present)
+
+I joined [Swimcloud](https://www.swimcloud.com/) as a web developer, contributing to the 
+development and design of scalable front-end architectures. Over time, I transitioned 
+into a full-stack developer role, gaining valuable experience in both front-end and 
+back-end technologies. In this capacity, I have played a key role in enhancing the user 
+experience of our applications. As my responsibilities expanded, I also acquired skills 
+in DevOps and infrastructure management, contributing to the overall development lifecycle.
+
+
+### Jinx Factory (Mar 2013 - July 2015)
+
+As a web developer at Jinx Factory, I led the build of websites and played a pivotal role
+in transitioning the company to embrace responsive web design. Additionally, I championed 
+design-in-the-browser practices and provided in-house tools and frameworks to streamline 
+development processes.
+
+## Skills
+
+I possess a diverse skill set, including proficiency and experience with:
+
+- **Front-End Technologies:**
+  - [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+  - [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+  - [Sass](http://sass-lang.com/)
+  - [Less](http://lesscss.org/)
+  - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+  - [React](https://react.dev) 
+  - [Webpack](https://webpack.js.org/)
+
+- **Back-End Technologies:**
+  - [Python](https://www.python.org/)
+  - [Django](https://www.djangoproject.com/)
+
+- **Infrastructure and DevOps:**
+  - [Amazon Web Services (AWS)](https://aws.amazon.com/)
+  - [Terraform](https://www.terraform.io/)
+  - [Ansible](https://www.ansible.com/)
+
+- **Version Control:**
+  - [Git](http://git-scm.com/)
 
 ## Connect
 
@@ -11,41 +55,6 @@ You can find me online at the following locations:
 - [twitter.com/iliakolev](https://www.twitter.com/iliakolev)
 - [linkedin.com/ilia-kolev](https://bg.linkedin.com/in/ilia-kolev-0b6bb575)
 
-## History
-
-### Swimcloud (Sept 2015 - Present)
-
-I joined [Swimcloud](https://www.swimcloud.com/) as web developer
-and begun building and designing front-end architecture for scalability and maintainability.
-
-### Jinx Factory (Mar 2013 - July 2015)
-
-Working as a web developer. I was responsible for the build of websites as 
-well as taking the company toward a responsive web design, design-in-the-browser 
-and provide in-house tools and frameworks.
-
-## Tools, Languages and Tech
-
-I don't profess mastery but I'm adept with most of the below, and I have an aptitude towards learning what I need to:
-
-- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
-- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
-- [Sass](http://sass-lang.com/)
-- [Less](http://lesscss.org/)
-- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-- [Webpack](https://webpack.js.org/)
-- [Git](http://git-scm.com/)
-- [Python](https://www.python.org/)
-- [Django](https://www.djangoproject.com/)
-- [Amazon Web Services](https://aws.amazon.com/)
-- [Terraform](https://www.terraform.io/)
-- [Ansible](https://www.ansible.com/)
-
-
-## Open-Source
-
-- [Tree Framework](https://github.com/treeframework)
-- [Pando](https://github.com/iliakolev/pando)
 
 ## Summary
 
