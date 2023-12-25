@@ -25,26 +25,26 @@ development processes.
 
 I possess a diverse skill set, including proficiency and experience with:
 
-- **Front-End Technologies:**
-  - [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
-  - [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
-  - [Sass](http://sass-lang.com/)
-  - [Less](http://lesscss.org/)
-  - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-  - [React](https://react.dev) 
-  - [Webpack](https://webpack.js.org/)
+**Front-End Technologies:**
+- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+- [Sass](http://sass-lang.com/)
+- [Less](http://lesscss.org/)
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [React](https://react.dev) 
+- [Webpack](https://webpack.js.org/)
 
-- **Back-End Technologies:**
-  - [Python](https://www.python.org/)
-  - [Django](https://www.djangoproject.com/)
+**Back-End Technologies:**
+- [Python](https://www.python.org/)
+- [Django](https://www.djangoproject.com/)
 
-- **Infrastructure and DevOps:**
-  - [Amazon Web Services (AWS)](https://aws.amazon.com/)
-  - [Terraform](https://www.terraform.io/)
-  - [Ansible](https://www.ansible.com/)
+**Infrastructure and DevOps:**
+- [Amazon Web Services (AWS)](https://aws.amazon.com/)
+- [Terraform](https://www.terraform.io/)
+- [Ansible](https://www.ansible.com/)
 
-- **Version Control:**
-  - [Git](http://git-scm.com/)
+**Version Control:**
+- [Git](http://git-scm.com/)
 
 ## Connect
 
